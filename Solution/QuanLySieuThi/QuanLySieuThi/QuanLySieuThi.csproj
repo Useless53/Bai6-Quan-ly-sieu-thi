@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="APP_DATA\Connector.cs" />
     <Compile Include="APP_DATA\DATA.cs" />
+    <Compile Include="ConnectData.cs" />
     <Compile Include="frmĐăngNhập.cs">
       <SubType>Form</SubType>
     </Compile>
