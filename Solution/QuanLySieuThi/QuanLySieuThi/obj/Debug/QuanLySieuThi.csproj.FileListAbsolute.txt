@@ -12,7 +12,6 @@ C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuTh
 C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
 C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
 C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csprojAssemblyReference.cache
-C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.frm_Start.resources
 C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
 C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.cache
 C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CoreCompileInputs.cache
@@ -32,3 +31,4 @@ C:\Users\thong\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\Qua
 C:\Users\thong\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.CopyComplete
 C:\Users\thong\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
 C:\Users\thong\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\QuanLySieuThi\QuanLySieuThi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLySieuThi
+namespace Quanlisieuthi
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace QuanLySieuThi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_Start());
+            Application.Run(new frmĐăngNhập());
         }
     }
 }
