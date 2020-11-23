@@ -1,0 +1,11 @@
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojAssemblyReference.cache
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.cache
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.CoreCompileInputs.cache
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.pdb
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\giang\source\repos\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
