@@ -22,3 +22,17 @@ C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Qua
 C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
 C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
 C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.pdb
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojAssemblyReference.cache
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.cache
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.CoreCompileInputs.cache
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\vominhkhai\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb

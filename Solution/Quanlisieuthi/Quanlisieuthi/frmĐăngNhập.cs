@@ -80,7 +80,8 @@ namespace Quanlisieuthi
 
         private void but_HangHoa_Click(object sender, EventArgs e)
         {
-
+            frmHangHoa frmdg = new frmHangHoa();
+            frmdg.ShowDialog();
         }
 
         private void but_HoaDon_Click(object sender, EventArgs e)
