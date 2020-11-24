@@ -414,6 +414,7 @@ INSERT [dbo].[tblUser] ([TaiKhoan], [MatKhau]) VALUES (N'lehoangson', N'080192')
 INSERT [dbo].[tblUser] ([TaiKhoan], [MatKhau]) VALUES (N'dangthihaiyen', N'dthy27795')
 INSERT [dbo].[tblUser] ([TaiKhoan], [MatKhau]) VALUES (N'lethitrang', N'lethitrang')
 INSERT [dbo].[tblUser] ([TaiKhoan], [MatKhau]) VALUES (N'vuquoctuan', N'vuquoctuan')
+INSERT [dbo].[tblUser] ([TaiKhoan], [MatKhau]) VALUES (N'admin', N'admin')
 ALTER TABLE [dbo].[HoaDon]  WITH CHECK ADD  CONSTRAINT [fk_hanghoa_hoadon] FOREIGN KEY([ID_HangHoa])
 REFERENCES [dbo].[HangHoa] ([ID_HangHoa])
 GO

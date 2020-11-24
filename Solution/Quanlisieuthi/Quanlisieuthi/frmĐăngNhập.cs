@@ -96,7 +96,8 @@ namespace Quanlisieuthi
 
         private void but_NhanVien_Click(object sender, EventArgs e)
         {
-
+            frmNhanVien frmdg = new frmNhanVien();
+            frmdg.ShowDialog();
         }
 
         private void but_QuanLi_Click(object sender, EventArgs e)
