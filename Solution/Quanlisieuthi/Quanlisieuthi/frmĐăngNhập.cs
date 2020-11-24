@@ -132,8 +132,9 @@ namespace Quanlisieuthi
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
-        }
+               frmHuongDan frmhd = new frmHuongDan();
+               frmhd.ShowDialog();
+          }
 
         private void frmĐăngNhập_Load(object sender, EventArgs e)
         {
