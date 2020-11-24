@@ -51,3 +51,5 @@ C:\Users\giang\OneDrive\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisi
 C:\Users\giang\OneDrive\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.CoreCompileInputs.cache
 C:\Users\giang\OneDrive\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
 C:\Users\giang\OneDrive\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHuongDan.resources
