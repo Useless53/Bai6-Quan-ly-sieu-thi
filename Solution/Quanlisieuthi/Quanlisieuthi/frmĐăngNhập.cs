@@ -85,7 +85,8 @@ namespace Quanlisieuthi
 
         private void but_HoaDon_Click(object sender, EventArgs e)
         {
-
+            frmHoaDon frmdg = new frmHoaDon();
+            frmdg.ShowDialog();
         }
 
         private void but_KhachHang_Click(object sender, EventArgs e)

@@ -21,3 +21,4 @@ C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Qua
 C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
 C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
 C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+C:\Users\Admin\Documents\GitHub\Bai6-Quan-ly-sieu-thi\Solution\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
