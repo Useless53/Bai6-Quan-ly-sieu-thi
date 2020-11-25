@@ -17,16 +17,11 @@ namespace Quanlisieuthi
         {
             InitializeComponent();
         }
-        ConnectData conn = new ConnectData();
-        public string str = @"select * from tblUser";
 
         private void label1_Click(object sender, EventArgs e)
         {
 
         }
-
-
-      
 
         private void label6_Click(object sender, EventArgs e)
         {
@@ -39,39 +34,6 @@ namespace Quanlisieuthi
 
         }
 
-        private void but_join_Click(object sender, EventArgs e)
-        {
-            conn.MoKetNoi();
-            SqlDataAdapter da = new SqlDataAdapter(str, conn.conn);
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            bool check = false;
-            foreach (DataRow row in dt.Rows)
-            {
-                if (row[0].ToString() == txtUser.Text && row[1].ToString() == txtPass.Text)
-                {
-                    check = true;
-                    break;
-                }
-                else
-                {
-                    check = false;
-                }
-            }
-            if (check == true)
-            {
-                MessageBox.Show("Đăng nhập thành công");
-                txtPass.ReadOnly = txtUser.ReadOnly = true;
-                pAcc.Enabled = true;
-            }
-            else
-            {
-                MessageBox.Show("Tài khoản không hợp lệ");
-                txtUser.Text = txtPass.Text = string.Empty;
-            }
-            conn.DongKetNoi();
-        }
-
       
         private void txtUser_TextChanged(object sender, EventArgs e)
         {
@@ -82,24 +44,33 @@ namespace Quanlisieuthi
         {
             frmHangHoa frmdg = new frmHangHoa();
             frmdg.ShowDialog();
+            frmdg.Close();
+            frmdg.Dispose();
         }
 
         private void but_HoaDon_Click(object sender, EventArgs e)
         {
             frmHoaDon frmdg = new frmHoaDon();
             frmdg.ShowDialog();
+            frmdg.Close();
+            frmdg.Dispose();
+
         }
 
         private void but_KhachHang_Click(object sender, EventArgs e)
         {
             frmKhachHang frmdg = new frmKhachHang();
             frmdg.ShowDialog();
+            frmdg.Close();
+            frmdg.Dispose();
         }
 
         private void but_NhanVien_Click(object sender, EventArgs e)
         {
             frmNhanVien frmdg = new frmNhanVien();
             frmdg.ShowDialog();
+            frmdg.Close();
+            frmdg.Dispose();
         }
 
         private void but_QuanLi_Click(object sender, EventArgs e)
@@ -117,14 +88,6 @@ namespace Quanlisieuthi
 
         }
 
-        private void but_out_Click(object sender, EventArgs e)
-        {
-            if (MessageBox.Show("Bạn có muốn thoát không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
-            {
-                this.Close();
-            } 
-        }
-
         private void pAcc_Paint(object sender, PaintEventArgs e)
         {
 
@@ -133,12 +96,9 @@ namespace Quanlisieuthi
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
                frmHuongDan frmhd = new frmHuongDan();
-               frmhd.ShowDialog();
-          }
-
-        private void frmĐăngNhập_Load(object sender, EventArgs e)
-        {
-
+            frmhd.ShowDialog();
+            frmhd.Close();
+            frmhd.Dispose();
         }
     }
 }
