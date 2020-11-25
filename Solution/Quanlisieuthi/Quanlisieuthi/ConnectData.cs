@@ -12,7 +12,7 @@ namespace Quanlisieuthi
     public class ConnectData
     {
         public SqlConnection conn = new SqlConnection();
-        public string constr = @"Data Source=DESKTOP-BVI7NJ5;Initial Catalog=QLBANHANG_ST;Integrated Security=True";
+        public string constr = @"Data Source=DESKTOP-133UL21\SQLEXPRESS;Initial Catalog=QLBANHANG_ST;Integrated Security=True";
 
         public void MoKetNoi()
         {
